@@ -5,4 +5,9 @@ public class Git_Program {
 		System.out.println("In Main");
 	}
 
+	public void m1()
+	{
+		System.out.println("In M1");
+	}
+
 }
